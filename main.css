@@ -1,3 +1,55 @@
 body {
   background-color: antiquewhite;
 }
+
+h2 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+article {
+  color: darkgreen;
+  text-align: center;
+  display: block;
+  width: 70%;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#fab {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 5px solid brown;
+border-radius: 50px;
+}
+
+#sales {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 3px dotted blueviolet;
+}
+
+#bank {
+font-family: 'Times New Roman', Times, serif;
+border: 15px solid gray;
+}
+
+#golive {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 6px dotted darkred;
+border-radius: 20px;
+}
+
+#support {
+font-family: monospace;
+border: 2px solid black
+}
+
+.mono {
+  font-size: 26px;
+}
