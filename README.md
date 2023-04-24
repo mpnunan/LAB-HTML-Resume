@@ -1,3 +1,5 @@
+https://michael-nunan-resume.netlify.app/
+
 # LAB: HTML Resume
 
 ## Get Started
